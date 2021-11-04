@@ -1,2 +1,4 @@
 env.py
-__cache__
+__cache__/
+.DS_Store
+.ipynb_checkpoints/
